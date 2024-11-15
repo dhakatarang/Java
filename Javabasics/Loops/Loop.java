@@ -1,8 +1,13 @@
+package Javabasics.Loops;
 
 // import java.util.Scanner;
 public class Loop {
     //use while when we know how many tyms the loop is goimg to run.or if don"t know that than use for loop
     public static void main(String[] args) {
+        int a=10;
+        if(a > 5 || a>6){
+            System.out.println("hello");
+        }
         // int b=10;
         // if(b==10);
         //    System.out.println("HEllo");
