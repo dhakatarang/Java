@@ -4,7 +4,7 @@ public class Array1 {
         int a=15;
 
         //Q:store a person's name
-        String name="Tarang Dhaka"
+        String name="Tarang Dhaka";
     }
     
 }

@@ -1,6 +1,6 @@
-package Javabasics.Basics;
+
 //import java.util.Scanner;
-public class Io{
+public class IO{
     public static void main(String[] args) {
         // Scanner in= new Scanner(System.in);
         // System.out.println(in.next());
