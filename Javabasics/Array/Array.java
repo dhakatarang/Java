@@ -1,5 +1,5 @@
 package Javabasics.Array;
-import java.util.Scanner;
+
 //public class Array{
 // public static void main(String[] args) {
     // basic array example
@@ -31,14 +31,14 @@ import java.util.Scanner;
     //    }
 
 
-    public class Array{
-      public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int input=in.nextInt();
-        int i=0;
-        int n = 25;
+    // public class Array{
+    //   public static void main(String[] args) {
+    //     Scanner in = new Scanner(System.in);
+    //     int input=in.nextInt();
+    //     int i=0;
+    //     int n = 25;
       
-      }
-    }
+    //   }
+    //}
   
 
