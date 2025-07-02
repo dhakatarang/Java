@@ -1,4 +1,6 @@
 package OOps;
+import java.io.*;
+import java.util.Arrays;
 
 public class Main {
   public static void main(String[] args) {
@@ -17,6 +19,8 @@ public class Main {
     //To create your own data type that's student here.
     Student[] students = new Student[5];
     Student kunal; //declaring variable
+    
+
     System.out.println(kunal.rno);
     System.out.println(Arrays.toString(students));
 

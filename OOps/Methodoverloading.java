@@ -5,11 +5,9 @@ public class Methodoverloading {
     A a= new A();
     a.Add(4,6);
     a.Add(4,7,8);
-    
   }
   
 }
-
 class A{
 void Add(int a,int b){
   System.out.println(a+b);}
