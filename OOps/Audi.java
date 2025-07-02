@@ -4,7 +4,7 @@ public class Audi extends Car{
     System.out.println("fast");
   }
 }
-class Car{
+class Tata{
   void run(){
     System.out.println("Running");
   }
