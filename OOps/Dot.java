@@ -1,7 +1,7 @@
 package OOps;
 interface Abc{
   void hello();
-  default void sum(){
+   default void sum(){
     System.out.println("Hello");
   }
 }
