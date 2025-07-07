@@ -1,3 +1,4 @@
-public class factorial {
+package Javabasics.Basics;
+public class Factorial {
   
 }
