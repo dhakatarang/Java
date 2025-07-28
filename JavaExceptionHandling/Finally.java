@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package JavaExceptionHandling;
 
 public class Finally {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Constructor;
+package JavaConstructor;
 
 public class constructor {
   

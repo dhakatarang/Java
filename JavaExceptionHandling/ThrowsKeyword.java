@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package JavaExceptionHandling;
 
 public class ThrowsKeyword {
     static void checkFile() throws Exception {
